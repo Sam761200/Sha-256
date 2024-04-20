@@ -20,7 +20,7 @@ Cela affichera le hachage SHA-256 du mot de passe codé en dur (monSuperMotDePas
 ```bash 
 Hashed password: 6f2e3382df07b03c72c5a53e29e84b4344f48e271e084b2b2b4aed09a9a6e33b
 ```
-##Considérations de Sécurité
+## Considérations de Sécurité
 
 Mot de passe en dur: Le mot de passe est stocké directement dans le code source. En production, les mots de passe doivent être obtenus de manière sécurisée à partir de l'utilisateur et jamais stockés en clair.
 
